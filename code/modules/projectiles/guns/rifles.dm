@@ -1419,18 +1419,22 @@
 	current_mag = /obj/item/ammo_magazine/rifle/lmg
 	starting_attachment_types = list(/obj/item/attachable/bipod)
 	attachable_allowed = list(
-		/obj/item/attachable/suppressor,
-		/obj/item/attachable/reddot,
+		/obj/item/attachable/reddot, // Rail
 		/obj/item/attachable/reflex,
-		/obj/item/attachable/verticalgrip,
-		/obj/item/attachable/angledgrip,
-		/obj/item/attachable/flashlight/grip,
+		/obj/item/attachable/magnetic_harness,
 		/obj/item/attachable/flashlight,
-		/obj/item/attachable/bipod,
+		/obj/item/attachable/scope,
+		/obj/item/attachable/scope/mini,
+		/obj/item/attachable/alt_iff_scope,
+		/obj/item/attachable/suppressor, // Muzzle
 		/obj/item/attachable/heavy_barrel,
 		/obj/item/attachable/compensator,
+		/obj/item/attachable/extended_barrel,
+		/obj/item/attachable/verticalgrip, // Underbarrel
+		/obj/item/attachable/angledgrip,
+		/obj/item/attachable/flashlight/grip,
+		/obj/item/attachable/bipod,
 		/obj/item/attachable/burstfire_assembly,
-		/obj/item/attachable/magnetic_harness,
 		/obj/item/attachable/attached_gun/extinguisher,
 	)
 
