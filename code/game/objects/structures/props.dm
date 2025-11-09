@@ -7,7 +7,7 @@
 	unacidable = TRUE
 	density = TRUE
 	layer = ABOVE_FLY_LAYER
-	bound_height = 96
+	bound_height = 64
 
 /obj/structure/prop/dam
 	density = TRUE
@@ -17,7 +17,7 @@
 	desc = "An old mining drill, seemingly used for mining. And possibly drilling."
 	icon = 'icons/obj/structures/props/industrial/drill.dmi'
 	icon_state = "drill"
-	bound_height = 96
+	bound_height = 64
 	var/on = FALSE//if this is set to on by default, the drill will start on, doi
 
 /obj/structure/prop/dam/drill/attackby(obj/item/W, mob/user)
