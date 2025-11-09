@@ -17,6 +17,7 @@
 	desc = "An old mining drill, seemingly used for mining. And possibly drilling."
 	icon = 'icons/obj/structures/props/industrial/drill.dmi'
 	icon_state = "drill"
+	layer = ABOVE_FLY_LAYER
 	bound_height = 64
 	var/on = FALSE//if this is set to on by default, the drill will start on, doi
 
