@@ -159,7 +159,8 @@
 	new_human.equip_to_slot_or_del(new /obj/item/storage/belt/gun/m4a3/wy/mod88_near_empty(new_human), WEAR_WAIST)
 	new_human.equip_to_slot_or_del(new /obj/item/storage/pouch/survival/full/wy(new_human), WEAR_L_STORE)
 	new_human.equip_to_slot_or_del(new /obj/item/storage/pouch/firstaid/ert/wy(new_human), WEAR_R_STORE)
-	new_human.equip_to_slot_or_del(new /obj/item/stack/sheet/plasteel/med_small_stack(new_human), WEAR_IN_BACK)
+	new_human.equip_to_slot_or_del(new /obj/item/weapon/gun/smg/nailgun(new_human), WEAR_IN_BACK)
+	new_human.equip_to_slot_or_del(new /obj/item/ammo_magazine/smg/nailgun(new_human), WEAR_IN_BACK)
 	new_human.equip_to_slot_or_del(new /obj/item/storage/belt/utility/full(new_human), WEAR_R_HAND)
 	add_pmc_survivor_weapon(new_human)
 	add_random_survivor_equipment(new_human)
@@ -363,7 +364,8 @@
 	new_human.equip_to_slot_or_del(new /obj/item/storage/backpack/pmc/backpack/rto_broken(new_human), WEAR_BACK)
 	//storage items
 	new_human.equip_to_slot_or_del(new /obj/item/stack/sheet/metal/med_small_stack(new_human), WEAR_IN_BACK)
-	new_human.equip_to_slot_or_del(new /obj/item/stack/sheet/plasteel/med_small_stack(new_human), WEAR_IN_BACK) // There is a chance PMC CO replaces PMC Engi during spawn.
+	new_human.equip_to_slot_or_del(new /obj/item/weapon/gun/smg/nailgun(new_human), WEAR_IN_BACK)
+	new_human.equip_to_slot_or_del(new /obj/item/ammo_magazine/smg/nailgun(new_human), WEAR_IN_BACK)
 	new_human.equip_to_slot_or_del(new /obj/item/attachable/flashlight/grip(new_human), WEAR_IN_BACK)
 	new_human.equip_to_slot_or_del(new /obj/item/attachable/reflex(new_human), WEAR_IN_BACK)
 	new_human.equip_to_slot_or_del(new /obj/item/storage/belt/gun/m39/corporate/no_lock/full/extended(new_human), WEAR_WAIST)
