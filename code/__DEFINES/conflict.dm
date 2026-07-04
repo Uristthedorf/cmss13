@@ -163,6 +163,8 @@
 
 /// how much it takes to gib a mob
 #define EXPLOSION_THRESHOLD_GIB 200
+/// how much it takes to dismember a mob
+#define EXPLOSION_THRESHOLD_DISMEMBER 100
 /// prone mobs receive less damage from explosions
 #define EXPLOSION_PRONE_MULTIPLIER 0.5
 
