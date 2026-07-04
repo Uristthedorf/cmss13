@@ -170,8 +170,9 @@
 		visible_message(SPAN_WARNING("[src] is shielded from the blast!"), SPAN_WARNING("You are shielded from the blast!"))
 		return
 
-	if(damage >= EXPLOSION_THRESHOLD_DISMEMBER)
-		remove_random_limb()
+	if(damage > EXPLOSION_THRESHOLD_DISMEMBER)
+		if(prob(damage - EXPLOSION_THRESHOLD_DISMEMBER))
+			remove_random_limb()
 
 	if(!HAS_TRAIT(src, TRAIT_EAR_PROTECTION))
 		ear_damage += severity * 0.15
