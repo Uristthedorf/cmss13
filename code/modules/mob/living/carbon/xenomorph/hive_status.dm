@@ -1277,9 +1277,9 @@
 	prefix = "K-Series "
 	color = "#ffff80"
 	ui_color = "#99994d"
-	latejoin_burrowed = FALSE
 
-	dynamic_evolution = FALSE
+/datum/hive_status/kseries/setup_banned_allies()
+	banned_allies = list("All")
 
 /datum/hive_status/feral
 	name = FACTION_XENOMORPH_FERAL
