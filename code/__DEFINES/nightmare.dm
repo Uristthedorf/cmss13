@@ -8,6 +8,8 @@
 #define NIGHTMARE_CTX_SHIP "ship"
 /// Ground Map Context: Whether hostile survivors should be used instead
 #define NIGHTMARE_SCENARIO_HOSTILE_SURVIVOR "hostile_survivors"
+/// Ground Map Context: Whether kseries should be spawned
+#define NIGHTMARE_SCENARIO_KSERIES "kseries"
 
 // File names for use in context configs
 #define NIGHTMARE_FILE_SCENARIO "scenario.json"

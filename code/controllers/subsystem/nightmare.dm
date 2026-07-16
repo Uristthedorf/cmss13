@@ -150,3 +150,10 @@ SUBSYSTEM_DEF(nightmare)
 	var/datum/nmcontext/ground_context = contexts[NIGHTMARE_CTX_GROUND]
 	var/scenario = ground_context.get_scenario_value(NIGHTMARE_SCENARIO_HOSTILE_SURVIVOR)
 	return !!scenario
+
+/// Returns whether the ground context indicates a hostile survivor scenario
+/datum/controller/subsystem/nightmare/proc/get_scenario_is_kseries()
+	// Assumption: Only ground context is relevant
+	var/datum/nmcontext/ground_context = contexts[NIGHTMARE_CTX_GROUND]
+	var/scenario = ground_context.get_scenario_value(NIGHTMARE_SCENARIO_HOSTILE_SURVIVOR)
+	return !!scenario

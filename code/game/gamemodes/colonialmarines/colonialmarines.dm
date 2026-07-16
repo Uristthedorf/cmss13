@@ -374,7 +374,11 @@
 	if(!length(monkey_types))
 		return
 
-	var/amount_to_spawn = floor(GLOB.players_preassigned * MONKEYS_TO_TOTAL_RATIO)
+	var multiplier = 1
+	if(SSnightmare.get_scenario_is_kseries())	//Double the smalls spawn because there's a second hive.
+		multiplier = 2
+
+	var/amount_to_spawn = floor(GLOB.players_preassigned * MONKEYS_TO_TOTAL_RATIO * multiplier)
 
 	for(var/i in 0 to min(amount_to_spawn, length(GLOB.monkey_spawns)))
 		var/turf/T = get_turf(pick_n_take(GLOB.monkey_spawns))
