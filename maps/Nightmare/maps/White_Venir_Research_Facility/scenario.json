@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "type": "pick", "name": "Warf Global Event",
+        "choices": [
+            { "weight": 8, "type": "def", "values": { "lvevent": "none" } },
+            { "weight": 2, "type": "def", "values": { "lvevent": "kseries"} }
+        ]
+    }
+
+]

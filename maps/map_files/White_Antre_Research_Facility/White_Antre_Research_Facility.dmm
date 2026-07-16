@@ -51403,6 +51403,12 @@
 "eNF" = (
 /turf/open/floor/prison/rampbottom,
 /area/white_antre/indoors/main_level/north_containment_hive)
+"ePf" = (
+/obj/effect/landmark/nightmare{
+	insert_tag = "khive"
+	},
+/turf/closed/wall/r_wall/biodome,
+/area/white_antre/indoors/main_level/north_containment_hive)
 "eQc" = (
 /turf/open/floor/almayer/emerald2smooth,
 /area/white_antre/indoors/main_level/research)
@@ -115707,7 +115713,7 @@ aOP
 aOP
 aOP
 aOP
-aOP
+ePf
 bZr
 aym
 aOB

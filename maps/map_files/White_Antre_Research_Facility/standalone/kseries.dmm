@@ -1,0 +1,143 @@
+"aG" = (/turf/open/floor/prison/darkpurple2,/area/space)
+"bp" = (/turf/open/floor/almayer/silvercorner/west,/area/space)
+"bL" = (/turf/open/floor/prison/darkred2/east,/area/space)
+"bT" = (/obj/effect/alien/egg/kseries{status = 1; icon_state = "Egg Opened"},/obj/effect/decal/warning_stripes{icon_state = "SE-out"; pixel_y = -1; pixel_x = 1},/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"cA" = (/obj/effect/decal/warning_stripes{icon_state = "NE-out"; pixel_x = 2; pixel_y = 2},/turf/open/floor/prison,/area/space)
+"cY" = (/turf/open/floor/almayer/silver/northwest,/area/space)
+"ec" = (/obj/effect/decal/warning_stripes{icon_state = "cargo_smooth"},/obj/effect/alien/egg/kseries{status = 1; icon_state = "Egg Opened"},/obj/structure/machinery/light/double{dir = 1; layer = 2.9; pixel_y = 9},/turf/open/floor/almayer/floor,/area/space)
+"eq" = (/obj/effect/alien/egg/kseries{status = 1; icon_state = "Egg Opened"},/turf/open/floor/prison,/area/space)
+"fa" = (/obj/effect/landmark/structure_spawner/setup/distress/xeno_wall/kseries,/turf/open/floor/prison/darkredcorners2,/area/space)
+"fk" = (/obj/effect/alien/weeds/node/kseries,/turf/open/floor/almayer/silvercorner/south,/area/space)
+"fM" = (/turf/open/floor/almayer/orange/southeast,/area/space)
+"fP" = (/turf/open/floor/prison,/area/space)
+"gi" = (/obj/structure/machinery/gear{pixel_y = -5; pixel_x = -4},/turf/open/floor/prison/darkpurplecorners2/west,/area/space)
+"gl" = (/obj/effect/decal/warning_stripes{icon_state = "E"; layer = 3.33; pixel_x = 1},/turf/open/floor/prison,/area/space)
+"gv" = (/obj/effect/landmark/structure_spawner/setup/distress/xeno_wall/kseries,/turf/open/floor/prison,/area/space)
+"hg" = (/obj/effect/landmark/structure_spawner/setup/distress/xeno_wall/kseries,/turf/open/floor/prison/darkpurple2,/area/space)
+"ig" = (/obj/effect/decal/warning_stripes{icon_state = "N"; pixel_y = 2},/obj/effect/decal/warning_stripes{icon_state = "W"},/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"ii" = (/obj/effect/landmark/structure_spawner/setup/distress/xeno_wall/kseries,/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"iv" = (/obj/effect/decal/warning_stripes{icon_state = "cargo_smooth"},/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"iI" = (/obj/effect/alien/weeds/node/kseries,/turf/open/floor/almayer/silver,/area/space)
+"iJ" = (/turf/open/floor/plating/plating_catwalk/prison,/area/space)
+"iK" = (/obj/effect/alien/weeds/node/kseries,/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"jy" = (/turf/open/floor/almayer/silver/west,/area/space)
+"jG" = (/turf/open/floor/prison/darkredcorners2/north,/area/space)
+"kf" = (/obj/structure/platform/metal/almayer_smooth/east,/turf/open/floor/almayer/silvercorner/east,/area/space)
+"kK" = (/obj/effect/alien/weeds/node/kseries,/turf/open/floor/prison/darkred2/north,/area/space)
+"kY" = (/turf/open/floor/almayer/silvercorner/south,/area/space)
+"mx" = (/obj/item/prop/alien/hugger{color = "#ffff80"; name = "k-series facehugger"; desc = "It has some sort of a tube at the end of its tail. Why is it yellow?"},/turf/open/floor/prison,/area/space)
+"mC" = (/obj/structure/platform/metal/almayer_smooth/north,/obj/structure/platform/metal/almayer_smooth/east,/obj/structure/platform_decoration/metal/almayer_smooth/northeast,/turf/open/floor/prison,/area/space)
+"mH" = (/turf/open/floor/almayer/floor,/area/space)
+"mX" = (/obj/effect/alien/weeds/node/kseries,/turf/open/floor/prison/darkred2/southeast,/area/space)
+"nA" = (/obj/structure/platform_decoration/metal/almayer_smooth/north,/turf/open/floor/almayer/silver/west,/area/space)
+"oA" = (/obj/effect/alien/weeds/node/kseries,/turf/open/floor/almayer/silver/west,/area/space)
+"oF" = (/obj/effect/landmark/ert_spawns/groundside_xeno,/turf/open/floor/plating/plating_catwalk/shiva,/area/space)
+"oU" = (/obj/structure/machinery/light/double,/turf/open/floor/almayer/silvercorner/west,/area/space)
+"pf" = (/turf/closed/wall/r_wall/biodome/biodome_unmeltable,/area/space)
+"py" = (/obj/item/prop/alien/hugger{color = "#ffff80"; name = "k-series facehugger"; desc = "It has some sort of a tube at the end of its tail. Why is it yellow?"},/turf/open/floor/prison/darkred2/southeast,/area/space)
+"qF" = (/obj/structure/platform_decoration/metal/almayer_smooth/west,/turf/open/floor/prison,/area/space)
+"ro" = (/turf/open/floor/prison/darkredcorners2,/area/space)
+"ry" = (/obj/effect/alien/weeds/node/kseries,/turf/open/floor/almayer/silver/northwest,/area/space)
+"se" = (/obj/item/prop/alien/hugger{color = "#ffff80"; name = "k-series facehugger"; desc = "It has some sort of a tube at the end of its tail. Why is it yellow?"},/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"st" = (/obj/effect/decal/warning_stripes{icon_state = "cargo_smooth"},/obj/effect/alien/egg/kseries{status = 1; icon_state = "Egg Opened"},/turf/open/floor/almayer/floor,/area/space)
+"sZ" = (/obj/structure/machinery/gear{pixel_y = 5; pixel_x = 4},/turf/open/floor/prison/darkpurplecorners2/north,/area/space)
+"tm" = (/obj/structure/platform_decoration/metal/almayer_smooth/east,/turf/open/floor/prison,/area/space)
+"tu" = (/obj/effect/decal/warning_stripes{icon_state = "cargo_smooth"},/obj/effect/landmark/structure_spawner/setup/distress/xeno_wall/kseries,/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"tO" = (/turf/open/floor/prison/darkred2,/area/space)
+"uh" = (/turf/open/floor/prison/darkredcorners2/east,/area/space)
+"uw" = (/obj/structure/machinery/light/double{dir = 4},/turf/open/floor/almayer/silverfull,/area/space)
+"vc" = (/obj/structure/machinery/gear{pixel_y = -5; pixel_x = 4},/turf/open/floor/prison/darkpurplecorners2,/area/space)
+"vj" = (/obj/effect/decal/warning_stripes{icon_state = "N"; pixel_y = 2},/obj/effect/decal/warning_stripes{icon_state = "E"; layer = 3.33; pixel_x = 1},/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"vo" = (/turf/open/floor/prison/darkred2/west,/area/space)
+"vq" = (/obj/structure/machinery/light/double,/turf/open/floor/almayer/floor,/area/space)
+"vL" = (/obj/effect/decal/warning_stripes{icon_state = "NW-out"; layer = 2.5; pixel_y = 2},/turf/open/floor/prison,/area/space)
+"wk" = (/turf/open/floor/prison/darkpurple2/east,/area/space)
+"wQ" = (/obj/structure/platform/metal/almayer_smooth/west,/turf/open/floor/prison,/area/space)
+"xj" = (/obj/effect/landmark/structure_spawner/setup/distress/xeno_nest/kseries,/obj/effect/decal/warning_stripes{icon_state = "W"},/obj/effect/decal/warning_stripes{icon_state = "S"},/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"xO" = (/obj/structure/platform/metal/almayer_smooth/east,/turf/open/floor/prison,/area/space)
+"xP" = (/obj/item/prop/alien/hugger{color = "#ffff80"; name = "k-series facehugger"; desc = "It has some sort of a tube at the end of its tail. Why is it yellow?"},/obj/effect/decal/warning_stripes{icon_state = "S"},/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"xQ" = (/obj/effect/decal/warning_stripes{icon_state = "E"; layer = 3.33; pixel_x = 1},/obj/effect/decal/warning_stripes{icon_state = "S"},/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"xU" = (/turf/open/floor/almayer/orange/east,/area/space)
+"yj" = (/obj/effect/landmark/structure_spawner/setup/distress/xeno_nest/kseries,/turf/open/floor/almayer/silver/northwest,/area/space)
+"yB" = (/turf/open/floor/prison/rampbottom,/area/space)
+"zV" = (/obj/effect/alien/weeds/node/kseries,/turf/open/floor/almayer/silvercorner/east,/area/space)
+"Aa" = (/turf/open/floor/almayer/orange,/area/space)
+"At" = (/turf/open/floor/almayer/silvercorner/east,/area/space)
+"AE" = (/turf/open/floor/prison/darkredcorners2/west,/area/space)
+"AF" = (/obj/effect/decal/warning_stripes{icon_state = "cargo_smooth"},/obj/effect/alien/egg/kseries{status = 1; icon_state = "Egg Opened"},/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"AZ" = (/obj/structure/platform/metal/almayer_smooth/north,/turf/open/floor/prison,/area/space)
+"Bc" = (/obj/effect/landmark/structure_spawner/setup/distress/xeno_nest/kseries,/turf/open/floor/almayer/silver/southwest,/area/space)
+"BL" = (/obj/structure/machinery/door/poddoor/hybrisa/ultra_reinforced_door/open{dir = 4; icon_state = "udoor0"},/obj/effect/landmark/lv624/door_blocker/xeno,/turf/open/floor/corsat/marked,/area/space)
+"Cv" = (/obj/effect/decal/warning_stripes{icon_state = "SW-out"; layer = 2.5},/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"CC" = (/obj/effect/decal/warning_stripes{icon_state = "N"; pixel_y = 2},/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"Dp" = (/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"Ds" = (/obj/structure/machinery/light/double{dir = 1; layer = 2.9; pixel_y = 9},/turf/open/floor/almayer/silver/north,/area/space)
+"El" = (/obj/structure/machinery/light/double{dir = 8; pixel_y = -5},/turf/open/floor/almayer/silverfull,/area/space)
+"Fl" = (/obj/structure/platform/metal/almayer_smooth/west,/turf/open/floor/almayer/silvercorner/north,/area/space)
+"FN" = (/turf/open/floor/almayer/silver/north,/area/space)
+"FQ" = (/obj/structure/platform/metal/almayer_smooth/north,/obj/structure/platform/metal/almayer_smooth/west,/obj/structure/platform_decoration/metal/almayer_smooth/northwest,/turf/open/floor/prison,/area/space)
+"Gx" = (/obj/structure/machinery/door/poddoor/hybrisa/ultra_reinforced_door/open{dir = 2; icon_state = "udoor0"},/obj/effect/landmark/lv624/door_blocker/xeno,/turf/open/floor/corsat/marked,/area/space)
+"GZ" = (/obj/effect/alien/egg/kseries{status = 1; icon_state = "Egg Opened"},/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"Ht" = (/turf/open/floor/prison/darkred2/north,/area/space)
+"Ik" = (/obj/effect/decal/warning_stripes{icon_state = "NW-out"; layer = 2.5; pixel_y = 2},/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"Il" = (/obj/effect/alien/weeds/node/kseries,/turf/open/floor/almayer/orange/southwest,/area/space)
+"Iv" = (/turf/open/floor/prison/darkred2/southeast,/area/space)
+"IX" = (/obj/effect/landmark/structure_spawner/setup/distress/xeno_wall/kseries,/turf/open/floor/plating/plating_catwalk/shiva,/area/space)
+"IZ" = (/obj/effect/decal/warning_stripes{icon_state = "SE-out"; pixel_y = -1; pixel_x = 1},/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"Jk" = (/obj/effect/landmark/structure_spawner/setup/distress/xeno_nest/kseries,/turf/open/floor/almayer/silver/west,/area/space)
+"Jn" = (/turf/open/floor/almayer/silvercorner/north,/area/space)
+"Ko" = (/turf/open/floor/plating/plating_catwalk/shiva,/area/space)
+"KC" = (/obj/effect/decal/warning_stripes{icon_state = "W"},/turf/open/floor/prison,/area/space)
+"Ld" = (/obj/effect/landmark/structure_spawner/setup/distress/xeno_nest/kseries,/turf/open/floor/almayer/silver/north,/area/space)
+"MS" = (/turf/closed/wall/mineral/bone_resin/k_series,/area/space)
+"Ns" = (/obj/effect/decal/warning_stripes{icon_state = "S"},/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"OG" = (/obj/effect/alien/weeds/node/kseries,/turf/open/floor/prison/darkpurple2/north,/area/space)
+"OS" = (/obj/structure/machinery/light/double,/turf/open/floor/almayer/silvercorner/south,/area/space)
+"OV" = (/obj/effect/landmark/structure_spawner/setup/distress/xeno_nest/kseries,/turf/open/floor/almayer/silver,/area/space)
+"Pf" = (/obj/effect/decal/warning_stripes{icon_state = "NE-out"; pixel_x = 2; pixel_y = 2},/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"Qi" = (/obj/effect/landmark/structure_spawner/xvx_hive/xeno_core,/turf/open/floor/plating/plating_catwalk/prison,/area/space)
+"Qo" = (/turf/open/floor/almayer/silver/southeast,/area/space)
+"SD" = (/turf/open/floor/almayer/silver/east,/area/space)
+"SH" = (/obj/structure/machinery/gear{pixel_y = 5; pixel_x = -4},/turf/open/floor/prison/darkpurplecorners2/east,/area/space)
+"SI" = (/turf/open/floor/almayer/orange/west,/area/space)
+"Tg" = (/obj/effect/decal/warning_stripes{icon_state = "W"},/obj/effect/decal/warning_stripes{icon_state = "S"},/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"TG" = (/turf/open/floor/almayer/silver,/area/space)
+"TM" = (/obj/effect/landmark/structure_spawner/setup/distress/xeno_nest/kseries,/obj/effect/decal/warning_stripes{icon_state = "E"; layer = 3.33; pixel_x = 1},/obj/effect/decal/warning_stripes{icon_state = "S"},/turf/open/floor/prison/floor_plate/southwest,/area/space)
+"Ud" = (/turf/open/floor/almayer/silver/northeast,/area/space)
+"UN" = (/turf/open/floor/almayer/silver/southwest,/area/space)
+"Vn" = (/turf/open/floor/prison/darkpurple2/north,/area/space)
+"Xo" = (/turf/open/floor/prison/darkpurple2/west,/area/space)
+"Xt" = (/obj/effect/alien/weeds/node/kseries,/turf/open/floor/plating/plating_catwalk/prison,/area/space)
+"XF" = (/obj/effect/alien/weeds/node/kseries,/turf/open/floor/almayer/orange/east,/area/space)
+"YK" = (/obj/effect/alien/weeds/node/kseries,/turf/open/floor/prison,/area/space)
+"YN" = (/obj/effect/alien/weeds/node/kseries,/turf/open/floor/almayer/silver/east,/area/space)
+"ZA" = (/turf/closed/wall/kutjevo/colony/reinforced/hull,/area/space)
+"ZY" = (/obj/structure/platform_decoration/metal/almayer_smooth,/turf/open/floor/almayer/silver/east,/area/space)
+
+(1,1,1) = {"
+pfZAZApfpfpfpfpfpfpfpfpfpfpfpfpfpfpfpfpfpfpfZAZApf
+ZAZApfpfcYFNLdUdpfstSIKoKoKoxUstpfcYFNLdUdpfpfZAZA
+ZApfpfyjJnDpDpZYpfstSIKoKoKoXFstpfnADpDpAtUdpfpfZA
+pfpfcYJnDpDpiKkfecxUSIKoKoKoxUSIecFliKDpGZAtUdpfpf
+pfyjJnYKmxfPfPxOstxUIlAaAaAafMSIstwQfPfPfPiKAtUdpf
+pfpfTgCvDpfPfPqFAZmCyByByByByBFQAZtmfPfPseIZTMpfpf
+pfpfpfxjCvDpfPeqfPqFtmeqfPfPqFtmfPfPfPDpIZxQpfpfpf
+pfjypfpfTgxPCviKDpDpeqiJiJiJeqDpDpiKbTNsTMpfpfSDpf
+pfjyvjpfpfpfKCfPfPeqYKiJiJiJYKeqfPfPglpfpfpfigSDpf
+pfjyPfCCCCCCvLfPfPfPeqfPmxeqeqfPfPfPcACCCCCCIkSDpf
+pfjyfPfPYKfPfPkYTGbpfPOSTGoUfPkYiIbpfPfPfPfPfPSDpf
+pfUNMSMSiJiJkYQopfBcOVpfQipfOVQopfUNbpiJiJiJfkQopf
+pfElMSMSmHmHSDpfpfpfpfpfpfpfpfpfpfpfJkmHmHmHMSuwpf
+pfryJniJiJiJAtUdpfcYLdUdpfcYFNUdpfcYJniJiJiJMSMSpf
+pfjyDpDpDpDpDpAtDsJnseAtDsJnDpzVDsJnDpiKrotOAESDpf
+BLjyDpDpDpiKiiDpDpDpiKDpmHDpDpfPfPfPfProIvivvoSDBL
+BLjyvcaGaGaGhghgaGaGgiDpmHDpDpfPgvgvroIvKoKovoYNBL
+BLMSwkivKotuIXivKoivXoiJMSiJiKfPfPfamXivKoivvoSDBL
+BLMSMSKoKoKoKoKoKoKoXoMSMSMSDpfPropyKoKoKoKovoSDBL
+BLMSMSivKoivoFivKoivXoiJMSiJDproIvivKoivKoAFvoSDBL
+pfoAwkKoKoKoKoKoKoKoXoXtmHiJroIvKoKoKoKoKoKovoSDpf
+pfjywkivKoivKoivKoivXoDpmHDpbLivKoAFKoAFKoivvoYNpf
+pfjysZMSMSMSOGVnVnVnSHDpvqDpjGHtkKMSMSMSHtHtuhSDpf
+pfUNTGTGTGTGTGTGTGTGTGTGpfTGTGTGTGTGMSTGTGTGTGQopf
+pfpfGxGxGxGxGxGxGxGxGxpfpfpfGxGxGxGxGxGxGxGxGxpfpf
+"}

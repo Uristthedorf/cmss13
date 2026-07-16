@@ -1,3 +1,10 @@
 [
-	{ "type": "map_sprinkle", "path": "sprinkles/" }
+	{ "type": "map_sprinkle", "path": "sprinkles/" },
+    {
+		"type": "map_insert",
+		"landmark": "khive",
+		"chance": 1.0,
+		"path": "standalone/kseries.dmm",
+		"when": { "lvevent": "kseries" }
+	}
 ]
