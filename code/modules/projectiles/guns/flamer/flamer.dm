@@ -774,6 +774,10 @@ GLOBAL_LIST_EMPTY(flamer_particles)
 /obj/flamer_fire/Crossed(atom/movable/atom_movable)
 	atom_movable.handle_flamer_fire_crossed(src)
 
+/obj/flamer_fire/ex_act(severity)
+	firelevel -= (severity / 10)
+	update_flame()
+
 /obj/flamer_fire/proc/type_b_debuff_xeno_armor(mob/living/carbon/xenomorph/X)
 	var/sig_result = SEND_SIGNAL(X, COMSIG_LIVING_FLAMER_CROSSED, tied_reagent)
 	. = 1
